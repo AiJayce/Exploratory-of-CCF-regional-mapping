@@ -1,0 +1,56 @@
+{
+  "status": "insufficient_passing_candidates",
+  "atlas": "BigBrain-MR",
+  "reference": "https://doi.org/10.1126/science.add7046",
+  "n_candidates": 100,
+  "n_passed": 0,
+  "n_marker_passed": 0,
+  "n_density_passed": 96,
+  "passing_original_ranks": [],
+  "min_major_region_fraction": 0.05,
+  "block_mm": 2.0,
+  "min_matched_blocks_per_stage": 3,
+  "min_cells_per_region_per_block": 20,
+  "min_detection_delta": 0.02,
+  "min_positive_block_share": 0.6666666666666666,
+  "panels": [
+    [
+      1,
+      2,
+      [
+        "MOG",
+        "CLDN11"
+      ],
+      [
+        "MOBP",
+        "OPALIN"
+      ]
+    ],
+    [
+      2,
+      1,
+      [
+        "SLC17A7",
+        "SYT1"
+      ],
+      [
+        "GAD1",
+        "CAMK2A"
+      ]
+    ],
+    [
+      8,
+      2,
+      [
+        "PDE10A",
+        "ADORA2A"
+      ],
+      [
+        "TAC1",
+        "PENK"
+      ]
+    ]
+  ],
+  "n_zero_count_cells_excluded_from_screen": 6893,
+  "screen_is_independent_anatomical_validation": false
+}

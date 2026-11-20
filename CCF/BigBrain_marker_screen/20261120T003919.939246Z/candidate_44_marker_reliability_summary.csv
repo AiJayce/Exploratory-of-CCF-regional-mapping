@@ -1,0 +1,4 @@
+roi,predefined_markers,global_positive_of_4,global_opposite_of_4,block_assessable_of_4,block_positive_of_4,block_comparator
+White matter,"MOG,CLDN11,MOBP,OPALIN",0,4,4,4,Gray matter
+Gray matter,"SLC17A7,SYT1,GAD1,CAMK2A",4,0,4,1,White matter
+Putamen,"PDE10A,ADORA2A,TAC1,PENK",0,4,0,0,Gray matter

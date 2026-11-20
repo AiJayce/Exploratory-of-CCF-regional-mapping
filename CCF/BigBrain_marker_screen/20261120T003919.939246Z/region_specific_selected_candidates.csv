@@ -1,0 +1,2 @@
+original_rank,roi_id,roi,is_major_roi,passes_density_screen,fit_score,n_measurable_markers,n_positive_markers,n_passing_markers,passing_genes,status
+44,1,White matter,True,True,0.3017610661589719,4,4,4,"MOG,CLDN11,MOBP,OPALIN",pass

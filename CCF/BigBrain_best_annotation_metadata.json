@@ -1,0 +1,25 @@
+{
+  "atlas": "BigBrain-MR human atlas; not Allen mouse CCFv3",
+  "atlas_source": "https://zenodo.org/records/7432527",
+  "atlas_license": "CC BY-NC-SA 4.0",
+  "method_reference": "https://alleninstitute.github.io/abc_atlas_access/notebooks/merfish_ccf_registration_tutorial.html",
+  "method": "Registered atlas coordinates, nearest-neighbor label lookup, cell-ID annotation join",
+  "registration": "Existing rigid coronal candidate; not the tutorial's ANTs deformable registration",
+  "selection_scope": "Existing 10 image-matching candidates",
+  "selection": "Maximum minimum(100 um Dice/F1, 200 um Dice/F1), enriched at both scales",
+  "original_rank": 4,
+  "fit_score": 0.3073985680190931,
+  "fit_score_is_probability": false,
+  "transform": {
+    "angle_deg": 105.0,
+    "x_mm": 108.4,
+    "y_mm": 97.2,
+    "z_mm": 129.2
+  },
+  "label_voxel_size_mm": [
+    0.10000000149011612,
+    0.10000000149011612,
+    0.10000000149011612
+  ],
+  "status": "Exploratory anatomical assignment; requires independent registration validation"
+}

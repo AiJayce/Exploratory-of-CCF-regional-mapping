@@ -1,0 +1,15 @@
+{
+  "atlas": "BigBrain-MR human atlas; not Allen mouse CCFv3",
+  "atlas_source": "https://zenodo.org/records/7432527",
+  "atlas_license": "CC BY-NC-SA 4.0",
+  "n_cells": 137627,
+  "n_candidates": 10,
+  "voting": "Equal-weight plurality vote over per-cell region IDs",
+  "ensemble": "Per-cell region votes weighted by F1 / sum(F1)",
+  "ties": "Within absolute 1e-12; earliest fit-ranked candidate supporting a tied region",
+  "background_and_CSF": "Included in voting; final labels 0 and 3 are unassigned/excluded",
+  "support_is_probability": false,
+  "coordinates": "Common original slide coordinates; candidate atlas coordinates are not averaged",
+  "agreement_fraction": 0.9931917428992858,
+  "status": "Exploratory; no independent anatomical validation"
+}

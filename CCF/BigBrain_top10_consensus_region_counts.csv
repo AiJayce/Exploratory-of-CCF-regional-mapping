@@ -1,0 +1,5 @@
+method,region_id,region,n_cells,percent_cells
+voting,1,White matter,111932,81.32997158987699
+voting,2,Gray matter,25695,18.670028410123013
+ensemble,1,White matter,111217,80.81045143758129
+ensemble,2,Gray matter,26410,19.18954856241871

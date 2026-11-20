@@ -1,0 +1,301 @@
+original_rank,roi_id,roi,is_major_roi,passes_density_screen,fit_score,n_measurable_markers,n_positive_markers,n_passing_markers,passing_genes,status
+49,1,White matter,True,True,0.3079526226734349,4,0,0,,marker_direction_not_supported
+49,2,Gray matter,True,True,0.3079526226734349,4,0,0,,marker_direction_not_supported
+49,8,Putamen,False,True,0.3079526226734349,0,0,0,,not_a_major_roi
+4,1,White matter,True,True,0.3073985680190931,4,0,0,,marker_direction_not_supported
+4,2,Gray matter,True,True,0.3073985680190931,4,0,0,,marker_direction_not_supported
+4,8,Putamen,False,True,0.3073985680190931,0,0,0,,not_a_major_roi
+94,1,White matter,True,True,0.3046070460704607,0,0,0,,insufficient_matched_blocks
+94,2,Gray matter,False,True,0.3046070460704607,0,0,0,,not_a_major_roi
+94,8,Putamen,False,True,0.3046070460704607,0,0,0,,not_a_major_roi
+44,1,White matter,True,True,0.3017610661589719,4,4,4,"MOG,CLDN11,MOBP,OPALIN",pass
+44,2,Gray matter,True,True,0.3017610661589719,4,1,1,SLC17A7,marker_direction_not_supported
+44,8,Putamen,True,True,0.3017610661589719,0,0,0,,insufficient_matched_blocks
+80,1,White matter,True,True,0.3016611295681063,4,0,0,,marker_direction_not_supported
+80,2,Gray matter,True,True,0.3016611295681063,4,0,0,,marker_direction_not_supported
+80,8,Putamen,False,True,0.3016611295681063,0,0,0,,not_a_major_roi
+39,1,White matter,True,True,0.2990455991516437,4,0,0,,marker_direction_not_supported
+39,2,Gray matter,True,True,0.2990455991516437,4,0,0,,marker_direction_not_supported
+39,8,Putamen,False,True,0.2990455991516437,0,0,0,,not_a_major_roi
+25,1,White matter,False,True,0.2983539094650205,0,0,0,,not_a_major_roi
+25,2,Gray matter,False,True,0.2983539094650205,0,0,0,,not_a_major_roi
+25,8,Putamen,False,True,0.2983539094650205,0,0,0,,not_a_major_roi
+54,1,White matter,True,True,0.2941492216854535,4,0,0,,marker_direction_not_supported
+54,2,Gray matter,True,True,0.2941492216854535,4,0,0,,marker_direction_not_supported
+54,8,Putamen,False,True,0.2941492216854535,0,0,0,,not_a_major_roi
+23,1,White matter,True,True,0.2930056710775047,4,0,0,,marker_direction_not_supported
+23,2,Gray matter,True,True,0.2930056710775047,4,0,0,,marker_direction_not_supported
+23,8,Putamen,False,True,0.2930056710775047,0,0,0,,not_a_major_roi
+43,1,White matter,True,True,0.2920634920634921,0,0,0,,insufficient_matched_blocks
+43,2,Gray matter,True,True,0.2920634920634921,0,0,0,,insufficient_matched_blocks
+43,8,Putamen,True,True,0.2920634920634921,0,0,0,,insufficient_matched_blocks
+36,1,White matter,True,True,0.291963861150737,4,0,0,,marker_direction_not_supported
+36,2,Gray matter,True,True,0.291963861150737,4,0,0,,marker_direction_not_supported
+36,8,Putamen,False,True,0.291963861150737,0,0,0,,not_a_major_roi
+90,1,White matter,True,True,0.2877230935640887,4,1,1,MOBP,marker_direction_not_supported
+90,2,Gray matter,True,True,0.2877230935640887,4,0,0,,marker_direction_not_supported
+90,8,Putamen,False,True,0.2877230935640887,0,0,0,,not_a_major_roi
+38,1,White matter,True,True,0.2876083630800612,4,0,0,,marker_direction_not_supported
+38,2,Gray matter,True,True,0.2876083630800612,4,0,0,,marker_direction_not_supported
+38,8,Putamen,False,True,0.2876083630800612,0,0,0,,not_a_major_roi
+8,1,White matter,True,True,0.2857142857142857,4,0,0,,marker_direction_not_supported
+8,2,Gray matter,True,True,0.2857142857142857,4,0,0,,marker_direction_not_supported
+8,8,Putamen,False,True,0.2857142857142857,0,0,0,,not_a_major_roi
+16,1,White matter,True,True,0.2854368932038835,4,0,0,,marker_direction_not_supported
+16,2,Gray matter,True,True,0.2854368932038835,4,0,0,,marker_direction_not_supported
+16,8,Putamen,False,True,0.2854368932038835,0,0,0,,not_a_major_roi
+50,1,White matter,True,True,0.2844266399599399,4,0,0,,marker_direction_not_supported
+50,2,Gray matter,True,True,0.2844266399599399,4,0,0,,marker_direction_not_supported
+50,8,Putamen,False,True,0.2844266399599399,0,0,0,,not_a_major_roi
+70,1,White matter,True,True,0.2842915346310548,4,0,0,,marker_direction_not_supported
+70,2,Gray matter,True,True,0.2842915346310548,4,0,0,,marker_direction_not_supported
+70,8,Putamen,False,True,0.2842915346310548,0,0,0,,not_a_major_roi
+26,1,White matter,True,True,0.2841253791708796,4,0,0,,marker_direction_not_supported
+26,2,Gray matter,True,True,0.2841253791708796,4,0,0,,marker_direction_not_supported
+26,8,Putamen,False,True,0.2841253791708796,0,0,0,,not_a_major_roi
+51,1,White matter,True,True,0.2827635327635328,4,0,0,,marker_direction_not_supported
+51,2,Gray matter,True,True,0.2827635327635328,4,0,0,,marker_direction_not_supported
+51,8,Putamen,False,True,0.2827635327635328,0,0,0,,not_a_major_roi
+5,1,White matter,True,True,0.2781222320637732,0,0,0,,insufficient_matched_blocks
+5,2,Gray matter,False,True,0.2781222320637732,0,0,0,,not_a_major_roi
+5,8,Putamen,True,True,0.2781222320637732,0,0,0,,insufficient_matched_blocks
+28,1,White matter,True,True,0.2765737874097007,4,0,0,,marker_direction_not_supported
+28,2,Gray matter,True,True,0.2765737874097007,4,0,0,,marker_direction_not_supported
+28,8,Putamen,False,True,0.2765737874097007,0,0,0,,not_a_major_roi
+1,1,White matter,True,True,0.2754491017964072,4,0,0,,marker_direction_not_supported
+1,2,Gray matter,True,True,0.2754491017964072,4,0,0,,marker_direction_not_supported
+1,8,Putamen,False,True,0.2754491017964072,0,0,0,,not_a_major_roi
+93,1,White matter,True,True,0.2751592356687898,4,0,0,,marker_direction_not_supported
+93,2,Gray matter,True,True,0.2751592356687898,4,0,0,,marker_direction_not_supported
+93,8,Putamen,False,True,0.2751592356687898,0,0,0,,not_a_major_roi
+46,1,White matter,False,True,0.2750139742873113,0,0,0,,not_a_major_roi
+46,2,Gray matter,False,True,0.2750139742873113,0,0,0,,not_a_major_roi
+46,8,Putamen,False,True,0.2750139742873113,0,0,0,,not_a_major_roi
+35,1,White matter,True,True,0.2738475581926061,4,0,0,,marker_direction_not_supported
+35,2,Gray matter,True,True,0.2738475581926061,4,0,0,,marker_direction_not_supported
+35,8,Putamen,False,True,0.2738475581926061,0,0,0,,not_a_major_roi
+31,1,White matter,True,True,0.2727987421383648,4,0,0,,marker_direction_not_supported
+31,2,Gray matter,True,True,0.2727987421383648,4,0,0,,marker_direction_not_supported
+31,8,Putamen,False,True,0.2727987421383648,0,0,0,,not_a_major_roi
+77,1,White matter,True,True,0.2725575606720597,2,0,0,,insufficient_matched_blocks
+77,2,Gray matter,True,True,0.2725575606720597,2,0,0,,insufficient_matched_blocks
+77,8,Putamen,False,True,0.2725575606720597,0,0,0,,not_a_major_roi
+32,1,White matter,False,True,0.2718916303821964,0,0,0,,not_a_major_roi
+32,2,Gray matter,False,True,0.2718916303821964,0,0,0,,not_a_major_roi
+32,8,Putamen,False,True,0.2718916303821964,0,0,0,,not_a_major_roi
+18,1,White matter,True,True,0.2707749766573296,4,0,0,,marker_direction_not_supported
+18,2,Gray matter,True,True,0.2707749766573296,4,0,0,,marker_direction_not_supported
+18,8,Putamen,False,True,0.2707749766573296,0,0,0,,not_a_major_roi
+34,1,White matter,True,True,0.2683093771389459,4,0,0,,marker_direction_not_supported
+34,2,Gray matter,True,True,0.2683093771389459,4,0,0,,marker_direction_not_supported
+34,8,Putamen,False,True,0.2683093771389459,0,0,0,,not_a_major_roi
+15,1,White matter,False,True,0.2674988854213107,0,0,0,,not_a_major_roi
+15,2,Gray matter,False,True,0.2674988854213107,0,0,0,,not_a_major_roi
+15,8,Putamen,False,True,0.2674988854213107,0,0,0,,not_a_major_roi
+63,1,White matter,True,True,0.2671232876712329,4,0,0,,marker_direction_not_supported
+63,2,Gray matter,True,True,0.2671232876712329,4,0,0,,marker_direction_not_supported
+63,8,Putamen,False,True,0.2671232876712329,0,0,0,,not_a_major_roi
+27,1,White matter,True,True,0.2670431625655506,4,0,0,,marker_direction_not_supported
+27,2,Gray matter,True,True,0.2670431625655506,4,0,0,,marker_direction_not_supported
+27,8,Putamen,False,True,0.2670431625655506,0,0,0,,not_a_major_roi
+72,1,White matter,True,True,0.2620496022461394,4,0,0,,marker_direction_not_supported
+72,2,Gray matter,True,True,0.2620496022461394,4,0,0,,marker_direction_not_supported
+72,8,Putamen,False,True,0.2620496022461394,0,0,0,,not_a_major_roi
+75,1,White matter,True,True,0.2617554858934169,4,0,0,,marker_direction_not_supported
+75,2,Gray matter,True,True,0.2617554858934169,4,0,0,,marker_direction_not_supported
+75,8,Putamen,False,True,0.2617554858934169,0,0,0,,not_a_major_roi
+74,1,White matter,True,True,0.2613843351548269,4,0,0,,marker_direction_not_supported
+74,2,Gray matter,True,True,0.2613843351548269,4,0,0,,marker_direction_not_supported
+74,8,Putamen,False,True,0.2613843351548269,0,0,0,,not_a_major_roi
+95,1,White matter,False,True,0.2604327666151468,0,0,0,,not_a_major_roi
+95,2,Gray matter,False,True,0.2604327666151468,0,0,0,,not_a_major_roi
+95,8,Putamen,False,True,0.2604327666151468,0,0,0,,not_a_major_roi
+86,1,White matter,True,True,0.2581395348837209,0,0,0,,insufficient_matched_blocks
+86,2,Gray matter,False,True,0.2581395348837209,0,0,0,,not_a_major_roi
+86,8,Putamen,False,True,0.2581395348837209,0,0,0,,not_a_major_roi
+62,1,White matter,True,True,0.2578890097932535,4,0,0,,marker_direction_not_supported
+62,2,Gray matter,True,True,0.2578890097932535,4,0,0,,marker_direction_not_supported
+62,8,Putamen,False,True,0.2578890097932535,0,0,0,,not_a_major_roi
+11,1,White matter,True,True,0.2572646261139093,4,0,0,,marker_direction_not_supported
+11,2,Gray matter,True,True,0.2572646261139093,4,0,0,,marker_direction_not_supported
+11,8,Putamen,False,True,0.2572646261139093,0,0,0,,not_a_major_roi
+73,1,White matter,True,True,0.256198347107438,0,0,0,,insufficient_matched_blocks
+73,2,Gray matter,False,True,0.256198347107438,0,0,0,,not_a_major_roi
+73,8,Putamen,True,True,0.256198347107438,0,0,0,,insufficient_matched_blocks
+53,1,White matter,True,True,0.2536640360766629,4,0,0,,marker_direction_not_supported
+53,2,Gray matter,True,True,0.2536640360766629,4,0,0,,marker_direction_not_supported
+53,8,Putamen,False,True,0.2536640360766629,0,0,0,,not_a_major_roi
+40,1,White matter,True,True,0.2509534706331045,4,0,0,,marker_direction_not_supported
+40,2,Gray matter,True,True,0.2509534706331045,4,0,0,,marker_direction_not_supported
+40,8,Putamen,False,True,0.2509534706331045,0,0,0,,not_a_major_roi
+22,1,White matter,False,True,0.250483185156552,0,0,0,,not_a_major_roi
+22,2,Gray matter,False,True,0.250483185156552,0,0,0,,not_a_major_roi
+22,8,Putamen,False,True,0.250483185156552,0,0,0,,not_a_major_roi
+9,1,White matter,True,True,0.249897917517354,4,0,0,,marker_direction_not_supported
+9,2,Gray matter,True,True,0.249897917517354,4,0,0,,marker_direction_not_supported
+9,8,Putamen,False,True,0.249897917517354,0,0,0,,not_a_major_roi
+65,1,White matter,True,True,0.249402390438247,4,0,0,,marker_direction_not_supported
+65,2,Gray matter,True,True,0.249402390438247,4,0,0,,marker_direction_not_supported
+65,8,Putamen,False,True,0.249402390438247,0,0,0,,not_a_major_roi
+24,1,White matter,True,True,0.2491838955386289,4,0,0,,marker_direction_not_supported
+24,2,Gray matter,True,True,0.2491838955386289,4,0,0,,marker_direction_not_supported
+24,8,Putamen,False,True,0.2491838955386289,0,0,0,,not_a_major_roi
+56,1,White matter,True,True,0.2489841152567417,4,1,1,MOG,marker_direction_not_supported
+56,2,Gray matter,True,True,0.2489841152567417,4,0,0,,marker_direction_not_supported
+56,8,Putamen,False,True,0.2489841152567417,0,0,0,,not_a_major_roi
+17,1,White matter,True,True,0.2482705611068409,0,0,0,,insufficient_matched_blocks
+17,2,Gray matter,False,True,0.2482705611068409,0,0,0,,not_a_major_roi
+17,8,Putamen,True,True,0.2482705611068409,0,0,0,,insufficient_matched_blocks
+64,1,White matter,True,True,0.2475609756097561,0,0,0,,insufficient_matched_blocks
+64,2,Gray matter,False,True,0.2475609756097561,0,0,0,,not_a_major_roi
+64,8,Putamen,True,True,0.2475609756097561,0,0,0,,insufficient_matched_blocks
+41,1,White matter,False,True,0.2468265162200282,0,0,0,,not_a_major_roi
+41,2,Gray matter,False,True,0.2468265162200282,0,0,0,,not_a_major_roi
+41,8,Putamen,False,True,0.2468265162200282,0,0,0,,not_a_major_roi
+20,1,White matter,True,True,0.2462686567164179,4,0,0,,marker_direction_not_supported
+20,2,Gray matter,True,True,0.2462686567164179,4,0,0,,marker_direction_not_supported
+20,8,Putamen,False,True,0.2462686567164179,0,0,0,,not_a_major_roi
+60,1,White matter,True,True,0.2453491507144783,4,0,0,,marker_direction_not_supported
+60,2,Gray matter,True,True,0.2453491507144783,4,1,1,GAD1,marker_direction_not_supported
+60,8,Putamen,False,True,0.2453491507144783,0,0,0,,not_a_major_roi
+48,1,White matter,False,True,0.244773519163763,0,0,0,,not_a_major_roi
+48,2,Gray matter,False,True,0.244773519163763,0,0,0,,not_a_major_roi
+48,8,Putamen,False,True,0.244773519163763,0,0,0,,not_a_major_roi
+71,1,White matter,True,True,0.2443991853360488,4,0,0,,marker_direction_not_supported
+71,2,Gray matter,True,True,0.2443991853360488,4,0,0,,marker_direction_not_supported
+71,8,Putamen,False,True,0.2443991853360488,0,0,0,,not_a_major_roi
+14,1,White matter,True,True,0.2437779195915762,4,2,2,"MOBP,OPALIN",marker_direction_not_supported
+14,2,Gray matter,True,True,0.2437779195915762,4,0,0,,marker_direction_not_supported
+14,8,Putamen,False,True,0.2437779195915762,0,0,0,,not_a_major_roi
+52,1,White matter,True,True,0.2429261559696342,4,1,1,OPALIN,marker_direction_not_supported
+52,2,Gray matter,True,True,0.2429261559696342,4,0,0,,marker_direction_not_supported
+52,8,Putamen,False,True,0.2429261559696342,0,0,0,,not_a_major_roi
+96,1,White matter,False,True,0.2415902140672783,0,0,0,,not_a_major_roi
+96,2,Gray matter,False,True,0.2415902140672783,0,0,0,,not_a_major_roi
+96,8,Putamen,False,True,0.2415902140672783,0,0,0,,not_a_major_roi
+6,1,White matter,True,True,0.240128068303095,4,0,0,,marker_direction_not_supported
+6,2,Gray matter,True,True,0.240128068303095,4,0,0,,marker_direction_not_supported
+6,8,Putamen,False,True,0.240128068303095,0,0,0,,not_a_major_roi
+33,1,White matter,False,True,0.23949246629659,0,0,0,,not_a_major_roi
+33,2,Gray matter,False,True,0.23949246629659,0,0,0,,not_a_major_roi
+33,8,Putamen,False,True,0.23949246629659,0,0,0,,not_a_major_roi
+78,1,White matter,True,True,0.2355752816660976,0,0,0,,insufficient_matched_blocks
+78,2,Gray matter,False,True,0.2355752816660976,0,0,0,,not_a_major_roi
+78,8,Putamen,True,True,0.2355752816660976,0,0,0,,insufficient_matched_blocks
+47,1,White matter,True,True,0.2346368715083799,0,0,0,,insufficient_matched_blocks
+47,2,Gray matter,False,True,0.2346368715083799,0,0,0,,not_a_major_roi
+47,8,Putamen,False,True,0.2346368715083799,0,0,0,,not_a_major_roi
+79,1,White matter,True,True,0.2325581395348837,4,0,0,,marker_direction_not_supported
+79,2,Gray matter,True,True,0.2325581395348837,4,0,0,,marker_direction_not_supported
+79,8,Putamen,False,True,0.2325581395348837,0,0,0,,not_a_major_roi
+7,1,White matter,True,True,0.2317508933129147,4,0,0,,marker_direction_not_supported
+7,2,Gray matter,True,True,0.2317508933129147,4,0,0,,marker_direction_not_supported
+7,8,Putamen,False,True,0.2317508933129147,0,0,0,,not_a_major_roi
+42,1,White matter,True,True,0.231353591160221,4,0,0,,marker_direction_not_supported
+42,2,Gray matter,True,True,0.231353591160221,4,0,0,,marker_direction_not_supported
+42,8,Putamen,False,True,0.231353591160221,0,0,0,,not_a_major_roi
+81,1,White matter,True,True,0.2310099573257468,4,0,0,,marker_direction_not_supported
+81,2,Gray matter,True,True,0.2310099573257468,4,0,0,,marker_direction_not_supported
+81,8,Putamen,False,True,0.2310099573257468,0,0,0,,not_a_major_roi
+88,1,White matter,True,True,0.2271241830065359,4,0,0,,marker_direction_not_supported
+88,2,Gray matter,True,True,0.2271241830065359,4,0,0,,marker_direction_not_supported
+88,8,Putamen,False,True,0.2271241830065359,0,0,0,,not_a_major_roi
+98,1,White matter,True,True,0.2266355140186916,4,1,1,MOBP,marker_direction_not_supported
+98,2,Gray matter,True,True,0.2266355140186916,4,1,1,CAMK2A,marker_direction_not_supported
+98,8,Putamen,False,True,0.2266355140186916,0,0,0,,not_a_major_roi
+69,1,White matter,True,True,0.2258310073585384,0,0,0,,insufficient_matched_blocks
+69,2,Gray matter,False,True,0.2258310073585384,0,0,0,,not_a_major_roi
+69,8,Putamen,False,True,0.2258310073585384,0,0,0,,not_a_major_roi
+99,1,White matter,True,True,0.2257792754844144,4,0,0,,marker_direction_not_supported
+99,2,Gray matter,True,True,0.2257792754844144,4,0,0,,marker_direction_not_supported
+99,8,Putamen,False,True,0.2257792754844144,0,0,0,,not_a_major_roi
+30,1,White matter,False,True,0.2250287026406429,0,0,0,,not_a_major_roi
+30,2,Gray matter,False,True,0.2250287026406429,0,0,0,,not_a_major_roi
+30,8,Putamen,False,True,0.2250287026406429,0,0,0,,not_a_major_roi
+57,1,White matter,True,True,0.2225541448842419,4,0,0,,marker_direction_not_supported
+57,2,Gray matter,True,True,0.2225541448842419,4,0,0,,marker_direction_not_supported
+57,8,Putamen,False,True,0.2225541448842419,0,0,0,,not_a_major_roi
+3,1,White matter,True,True,0.2219502243982048,4,0,0,,marker_direction_not_supported
+3,2,Gray matter,True,True,0.2219502243982048,4,0,0,,marker_direction_not_supported
+3,8,Putamen,False,True,0.2219502243982048,0,0,0,,not_a_major_roi
+19,1,White matter,True,True,0.2203699939011994,4,0,0,,marker_direction_not_supported
+19,2,Gray matter,True,True,0.2203699939011994,4,0,0,,marker_direction_not_supported
+19,8,Putamen,False,True,0.2203699939011994,0,0,0,,not_a_major_roi
+37,1,White matter,True,True,0.2200739266420244,4,0,0,,marker_direction_not_supported
+37,2,Gray matter,True,True,0.2200739266420244,4,0,0,,marker_direction_not_supported
+37,8,Putamen,False,True,0.2200739266420244,0,0,0,,not_a_major_roi
+92,1,White matter,True,True,0.2190831556503198,4,0,0,,marker_direction_not_supported
+92,2,Gray matter,True,True,0.2190831556503198,4,2,2,"SLC17A7,SYT1",marker_direction_not_supported
+92,8,Putamen,False,True,0.2190831556503198,0,0,0,,not_a_major_roi
+82,1,White matter,True,True,0.2182968626417084,2,0,0,,insufficient_matched_blocks
+82,2,Gray matter,True,True,0.2182968626417084,2,0,0,,insufficient_matched_blocks
+82,8,Putamen,False,True,0.2182968626417084,0,0,0,,not_a_major_roi
+83,1,White matter,True,True,0.217779364512674,4,0,0,,marker_direction_not_supported
+83,2,Gray matter,True,True,0.217779364512674,4,1,1,CAMK2A,marker_direction_not_supported
+83,8,Putamen,False,True,0.217779364512674,0,0,0,,not_a_major_roi
+89,1,White matter,True,True,0.2171717171717171,4,0,0,,marker_direction_not_supported
+89,2,Gray matter,True,True,0.2171717171717171,4,0,0,,marker_direction_not_supported
+89,8,Putamen,False,True,0.2171717171717171,0,0,0,,not_a_major_roi
+66,1,White matter,True,True,0.2143768609102509,4,0,0,,marker_direction_not_supported
+66,2,Gray matter,True,True,0.2143768609102509,4,0,0,,marker_direction_not_supported
+66,8,Putamen,False,True,0.2143768609102509,0,0,0,,not_a_major_roi
+68,1,White matter,True,True,0.2137931034482758,4,2,2,"MOBP,OPALIN",marker_direction_not_supported
+68,2,Gray matter,True,True,0.2137931034482758,4,0,0,,marker_direction_not_supported
+68,8,Putamen,False,True,0.2137931034482758,0,0,0,,not_a_major_roi
+84,1,White matter,True,True,0.2124789207419898,4,0,0,,marker_direction_not_supported
+84,2,Gray matter,True,True,0.2124789207419898,4,0,0,,marker_direction_not_supported
+84,8,Putamen,False,True,0.2124789207419898,0,0,0,,not_a_major_roi
+55,1,White matter,True,True,0.210353327855382,0,0,0,,insufficient_matched_blocks
+55,2,Gray matter,False,True,0.210353327855382,0,0,0,,not_a_major_roi
+55,8,Putamen,False,True,0.210353327855382,0,0,0,,not_a_major_roi
+67,1,White matter,True,True,0.2082191780821917,4,0,0,,marker_direction_not_supported
+67,2,Gray matter,True,True,0.2082191780821917,4,0,0,,marker_direction_not_supported
+67,8,Putamen,False,True,0.2082191780821917,0,0,0,,not_a_major_roi
+87,1,White matter,True,True,0.1946702800361337,0,0,0,,insufficient_matched_blocks
+87,2,Gray matter,False,True,0.1946702800361337,0,0,0,,not_a_major_roi
+87,8,Putamen,False,True,0.1946702800361337,0,0,0,,not_a_major_roi
+29,1,White matter,True,True,0.1928671050009962,0,0,0,,insufficient_matched_blocks
+29,2,Gray matter,False,True,0.1928671050009962,0,0,0,,not_a_major_roi
+29,8,Putamen,False,True,0.1928671050009962,0,0,0,,not_a_major_roi
+58,1,White matter,True,True,0.1848137535816618,0,0,0,,insufficient_matched_blocks
+58,2,Gray matter,False,True,0.1848137535816618,0,0,0,,not_a_major_roi
+58,8,Putamen,False,True,0.1848137535816618,0,0,0,,not_a_major_roi
+59,1,White matter,True,True,0.1843269060675747,4,0,0,,marker_direction_not_supported
+59,2,Gray matter,True,True,0.1843269060675747,4,1,1,SLC17A7,marker_direction_not_supported
+59,8,Putamen,False,True,0.1843269060675747,0,0,0,,not_a_major_roi
+97,1,White matter,True,True,0.1829380967046504,4,2,2,"MOBP,OPALIN",marker_direction_not_supported
+97,2,Gray matter,True,True,0.1829380967046504,4,1,1,GAD1,marker_direction_not_supported
+97,8,Putamen,False,True,0.1829380967046504,0,0,0,,not_a_major_roi
+10,1,White matter,True,True,0.1786941580756013,4,2,2,"MOG,CLDN11",marker_direction_not_supported
+10,2,Gray matter,True,True,0.1786941580756013,4,0,0,,marker_direction_not_supported
+10,8,Putamen,False,True,0.1786941580756013,0,0,0,,not_a_major_roi
+45,1,White matter,False,True,0.1782450869946176,0,0,0,,not_a_major_roi
+45,2,Gray matter,False,True,0.1782450869946176,0,0,0,,not_a_major_roi
+45,8,Putamen,False,True,0.1782450869946176,0,0,0,,not_a_major_roi
+2,1,White matter,True,True,0.1733128834355828,0,0,0,,insufficient_matched_blocks
+2,2,Gray matter,False,True,0.1733128834355828,0,0,0,,not_a_major_roi
+2,8,Putamen,False,True,0.1733128834355828,0,0,0,,not_a_major_roi
+100,1,White matter,True,True,0.1224722301338649,4,0,0,,marker_direction_not_supported
+100,2,Gray matter,True,True,0.1224722301338649,4,0,0,,marker_direction_not_supported
+100,8,Putamen,False,True,0.1224722301338649,0,0,0,,not_a_major_roi
+61,1,White matter,True,True,0.1214260501235439,4,0,0,,marker_direction_not_supported
+61,2,Gray matter,True,True,0.1214260501235439,4,0,0,,marker_direction_not_supported
+61,8,Putamen,False,True,0.1214260501235439,0,0,0,,not_a_major_roi
+13,1,White matter,True,True,0.1189400782896717,4,0,0,,marker_direction_not_supported
+13,2,Gray matter,True,True,0.1189400782896717,4,0,0,,marker_direction_not_supported
+13,8,Putamen,False,True,0.1189400782896717,0,0,0,,not_a_major_roi
+12,1,White matter,True,True,0.0659264399722415,0,0,0,,insufficient_matched_blocks
+12,2,Gray matter,False,True,0.0659264399722415,0,0,0,,not_a_major_roi
+12,8,Putamen,False,True,0.0659264399722415,0,0,0,,not_a_major_roi
+21,1,White matter,True,False,,4,0,0,,density_screen_failed
+21,2,Gray matter,True,False,,4,0,0,,density_screen_failed
+21,8,Putamen,False,False,,0,0,0,,not_a_major_roi
+76,1,White matter,True,False,,0,0,0,,density_screen_failed
+76,2,Gray matter,False,False,,0,0,0,,not_a_major_roi
+76,8,Putamen,False,False,,0,0,0,,not_a_major_roi
+85,1,White matter,True,False,,4,0,0,,density_screen_failed
+85,2,Gray matter,True,False,,4,0,0,,density_screen_failed
+85,8,Putamen,False,False,,0,0,0,,not_a_major_roi
+91,1,White matter,True,False,,4,2,2,"MOG,CLDN11",density_screen_failed
+91,2,Gray matter,True,False,,4,0,0,,density_screen_failed
+91,8,Putamen,False,False,,0,0,0,,not_a_major_roi

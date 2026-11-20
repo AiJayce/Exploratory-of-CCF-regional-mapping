@@ -1,0 +1,5 @@
+original_rank,roi_id,comparator_id,stage,gene,matched_blocks,median_detection_delta,positive_block_share,roi
+44,1,2,screen,MOG,3,0.0572697237711539,1.0,White matter
+44,1,2,screen,CLDN11,3,0.0196300238677301,0.6666666666666666,White matter
+44,1,2,heldout,MOBP,5,0.0317339964095759,0.8,White matter
+44,1,2,heldout,OPALIN,5,0.0308518236906983,0.8,White matter
